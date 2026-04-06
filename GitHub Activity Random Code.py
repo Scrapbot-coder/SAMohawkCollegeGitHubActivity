@@ -32,3 +32,5 @@ for item in randomlist:
     print("The current minimum value is: ", minvalue)
 
 print("The final minimum value is: ", minvalue)
+
+#This is a random comment added by Santiago post initial upload
